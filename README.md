@@ -15,3 +15,9 @@ Features:
 * All the tasks that he has saved on the App can viewed seamlessly at any point of time. 
 
 * When the user has completed the task,he can check the "Done" check box which implies that he is done with that task. 
+
+
+Future Enhancements: 
+1. Allow a user to long press a task, which will lead to a display of pop up that provides the user with an option to delete the task.
+2. Add tabs in the App, to sort the task by various different categories such as : Sorted by deadlines, sorted by Priority etc.
+3. Improve the UI to differentiate between tasks that are DONE and that are NOT DONE yet
